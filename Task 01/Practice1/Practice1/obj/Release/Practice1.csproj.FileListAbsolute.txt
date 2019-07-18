@@ -1,0 +1,9 @@
+C:\Users\Алексей\source\repos\Practice1\Practice1\bin\Release\Practice1.exe.config
+C:\Users\Алексей\source\repos\Practice1\Practice1\bin\Release\Practice1.exe
+C:\Users\Алексей\source\repos\Practice1\Practice1\bin\Release\Practice1.pdb
+C:\Users\Алексей\source\repos\Practice1\Practice1\obj\Release\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Practice1\Practice1\obj\Release\Practice1.csproj.CopyComplete
+C:\Users\Алексей\source\repos\Practice1\Practice1\obj\Release\Practice1.exe
+C:\Users\Алексей\source\repos\Practice1\Practice1\obj\Release\Practice1.pdb
+C:\Users\Алексей\source\repos\Practice1\Practice1\bin\Release\EAGetMailCF35.dll
+C:\Users\Алексей\source\repos\Practice1\Practice1\obj\Release\Practice1.csprojAssemblyReference.cache
