@@ -1,0 +1,11 @@
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Practice01\bin\Debug\Practice01.exe.config
+C:\Users\Алексей\source\repos\Practice01\bin\Debug\Practice01.exe
+C:\Users\Алексей\source\repos\Practice01\bin\Debug\Practice01.pdb
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.csproj.CopyComplete
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.exe
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.pdb
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.Properties.Resources.resources
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\Practice01\bin\Debug\EAGetMail20.dll
+C:\Users\Алексей\source\repos\Practice01\obj\Debug\Practice01.csprojAssemblyReference.cache
